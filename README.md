@@ -13,4 +13,10 @@ npm install
 npm run build
 ```
 
-Copyright (C) 2022, Uri Shaked
+## Test Project
+
+You can see this chip in action in the Wokwi Test Project: https://wokwi.com/projects/351152753150526039
+
+## License
+
+Copyright (C) 2022, Uri Shaked. Released under the MIT License.
