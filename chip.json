@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "name": "AssemblyScript Inverter",
+  "author": "Uri Shaked",
+  "license": "MIT",
+  "docs": "https://github.com/wokwi/assemblyscript-inverter-chip",
+  "pins": [
+    "OUT",
+    "IN",
+    "VCC",
+    "GND"
+  ]
+}
