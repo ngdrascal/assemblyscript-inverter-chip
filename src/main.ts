@@ -1,5 +1,6 @@
 import { EDGE_BOTH, INPUT, OUTPUT, println } from './wokwi-api';
 import { IPinChangeListener, WokwiPin } from './wokwi-pin';
+export { __wokwi_api_version_1 } from './wokwi-api';
 
 class InverterChip implements IPinChangeListener {
   pinIn: WokwiPin;
