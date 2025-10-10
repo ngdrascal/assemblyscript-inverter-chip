@@ -4,7 +4,7 @@
   "description": "Inverter Chip for Wokwi, built using Assembly Script",
   "main": "index.js",
   "scripts": {
-    "build": "rimraf dist && asc --use abort=src/wokwi-api/abort --use seed=src/wokwi-api/seed --exportTable --runtime stub -o dist/chip.wasm src/main.ts && copyfiles chip.json dist"
+    "build": "rimraf dist && asc --use abort=src/wokwi-api/abort --use seed=src/wokwi-api/seed --exportTable --runtime stub -o dist/inverter.chip.wasm src/main.ts && copyfiles inverter.chip.json dist"
   },
   "keywords": [],
   "author": "Uri Shaked",

@@ -3,5 +3,5 @@ version = 1
 firmware = "test/blink_pin2.ino.hex"
 elf = "test/blink_pin2.ino.elf"
 [[chip]]
-name = "chip-inverter"
-binary = "dist/chip.wasm"
+name = "inverter"
+binary = "dist/inverter.chip.wasm"

@@ -29,5 +29,5 @@
     [ "uno:VIN", "chip1:VCC", "red", [ "v28.7", "h234.5", "v-240" ] ],
     [ "chip1:GND", "uno:GND.3", "black", [ "h30.61", "v259.2", "h-259.2" ] ]
   ],
-  "dependencies": { "chip-inverter": "github:wokwi/assemblyscript-inverter-chip@1.0.0" }
+  "dependencies": { }
 }
